@@ -1,4 +1,4 @@
-FROM github.com/bebear1912/centos
+FROM github.com/bebear1912/centos:latest
 MAINTAINER "Sittiborn Yooem" <sittiborn.y@gmail.com>
 
 # install PHP and extensions
